@@ -1,3 +1,16 @@
+#Front End Mentor Summary Card 
+Here i have created a clone of the summary card as part of a challange in the Front End Mentors Projects list. I completed this using CSS and HTML only. 
+
+You can view the summary card live here at the following URL: 
+
+
+Enjoy!! 
+
+
+Read Below for more info: 
+
+
+
 # Frontend Mentor - Order summary card
 
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
